@@ -1,0 +1,7 @@
+*.txt
+*.xls
+*.xlsx
+Crawling_*.py
+Login_*.py
+proxyIP.py
+__pycache__
